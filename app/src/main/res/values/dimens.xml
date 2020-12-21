@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_padding">16dp</dimen>
+    <dimen name="image">46dp</dimen>
+    <dimen name="row_padding">8dp</dimen>
+    <dimen name="text_row_padding_image">16dp</dimen>
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="minButton">180dp</dimen>
+</resources>

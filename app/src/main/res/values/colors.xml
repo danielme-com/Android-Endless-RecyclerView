@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary" type="color">#9C27B0</item>
+    <item name="primaryDark" type="color">#5C1760</item>
+
+    <item name="red" type="color">#F44336</item>
+    <item name="indigo" type="color">#3F51B5</item>
+    <item name="green" type="color">#4CAF50</item>
+    <item name="orange" type="color">#FF9800</item>
+    <item name="blue" type="color">#2196F3</item>
+    <item name="yellow" type="color">#FFEB3B</item>>
+    <item name="bluegrey" type="color">#607D8B</item>
+    <item name="teal" type="color">#009688</item>#009688
+    <item name="deeppurple" type="color">#673AB7</item>
+    <item name="cyan" type="color">#00BCD4</item>
+    <item name="brown" type="color">#795548</item>
+
+</resources>

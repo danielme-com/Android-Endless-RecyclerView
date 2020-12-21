@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Endless RecyclerView</string>
+    <string name="end">No more elements</string>
+    <string name="error">There was an error</string>
+    <string name="retry">Retry</string>
+    <string name="action_toggle_error">Toggle error</string>
+
+    <string name="red">Red</string>
+    <string name="indigo">Indigo</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>>
+    <string name="grey">Grey</string>
+    <string name="bluegrey">Blue Grey</string>
+    <string name="amber">Amber</string>
+    <string name="teal">Teal</string>
+    <string name="deeppurple">Deep Purple</string>
+    <string name="cyan">Cyan</string>
+    <string name="brown">Brown</string>
+
+</resources>
